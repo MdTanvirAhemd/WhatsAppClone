@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">What\'s App Clone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">1LZvyiFjYfrZOg6ATv2xkH1VyOocRyj569eBSj7U</string>
+    <string name="back4app_client_key">f9BYdQZ0DIJM8NplVDMDlNSHlemcZeFjsa7zHODm</string>
+
+</resources>
